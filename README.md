@@ -7,6 +7,3 @@ check out my git blog [CLICK HERE](https://github.com/imcoffeefreak/neural_netwo
 
 
 
-
-
-
