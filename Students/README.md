@@ -1,0 +1,2 @@
+# Hello folks  :wave:
+Use this folder to upload bio about you. The bio would contain your name, few lines about you, your passion, frameworks that you know(irrespective of any branch), ypur nature when it comes for team work, also about your opinion of educational developement and few lines of suggestion on the same
