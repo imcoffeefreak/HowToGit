@@ -1,2 +1,20 @@
 # Hello folks  :wave:
-Use this folder to upload bio about you. The bio would contain your name, few lines about you, your passion, frameworks that you know(irrespective of any branch), ypur nature when it comes for team work, also about your opinion of educational developement and few lines of suggestion on the same
+
+Here is your 1st problem statement !
+-----
+Write a program that accepts a sequence of whitespace separated words as input and prints the words after removing all duplicate words and sorting them alphanumerically.
+
+Suppose the following input is supplied to the program: 
+hello world and practice makes perfect and hello world again
+Then, the output should be:
+again and hello makes perfect practice world.
+
+----
+Hints:
+In case of input data being supplied to the question, it should be assumed to be a console input.
+We use set container to remove duplicated data automatically and then use sorted() to sort the data.
+
+-----
+Please create a branch and fork into my account
+IMPORTANT THING IS  PLEASE CREATE BRANCH AND NAME IT WITH YOUR NAME
+ 
